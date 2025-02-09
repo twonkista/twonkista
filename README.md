@@ -20,13 +20,14 @@ I don't code software anymore(for my career) so here's the graveyard.
 
 ## Pior to quitting:
 - 🔭 I worked on: Full stack web apps, web scrapers, machine learning, and discord bots
+- 🧑‍💻 I interned at Siemens as a SWE during summer 2024
 
 ## What I'm doing now
 - 🌱 I’m currently learning: EE, analog, hardware, iot and circuit design (hint of machine learning)
-- 🔬 I am going to work at an IoT device lab this summer
+- 🔬 Incoming Research Assistant at an IoT device lab this summer at UIC
 
 ## Misc
-- 👯 I’m looking to collaborate with: your mother
+- 👯 I’m looking to collaborate with: your mother 
 - 🤔 I’m looking for help with: getting women
 - 💬 Ask me about: EE stuff
 - 📫 How to reach me: You cant, youre just simply not on my wavelength
