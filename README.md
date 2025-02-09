@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I don't code software anymore(for my career) so here's the graveyard.
 
-##EE Major, CS minor (i took all core cs classes prior to switching so i was like why not)
+## EE Major, CS minor (i took all core cs classes prior to switching so i was like why not)
 
 - 🔭 I worked on: Full stack web apps, web scrapers, machine learning, and discord bots
 - 🌱 I’m currently learning: EE, analog, hardware, iot and circuit design (hint of machine learning)
