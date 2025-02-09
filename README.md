@@ -24,6 +24,8 @@ I don't code software anymore(for my career) so here's the graveyard.
 ## What I'm doing now
 - 🌱 I’m currently learning: EE, analog, hardware, iot and circuit design (hint of machine learning)
 - 🔬 I think I am gonna work in an EE lab this summer
+
+## Misc
 - 👯 I’m looking to collaborate with: your mother
 - 🤔 I’m looking for help with: getting women
 - 💬 Ask me about: EE stuff
