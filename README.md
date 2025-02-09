@@ -18,10 +18,13 @@ I don't code software anymore(for my career) so here's the graveyard.
 
 ## EE Major, CS minor (i took all core cs classes prior to switching so i was like why not)
 
+## Pior to quitting:
 - 🔭 I worked on: Full stack web apps, web scrapers, machine learning, and discord bots
+
+## What I'm doing now
 - 🌱 I’m currently learning: EE, analog, hardware, iot and circuit design (hint of machine learning)
 - 🔬 I think I am gonna work in an EE lab this summer
-- 👯 I’m looking to collaborate on: your mother
+- 👯 I’m looking to collaborate with: your mother
 - 🤔 I’m looking for help with: getting women
 - 💬 Ask me about: EE stuff
 - 📫 How to reach me: You cant, youre just simply not on my wavelength
