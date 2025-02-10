@@ -29,7 +29,7 @@ I don't code software anymore(for my career) so here's the graveyard.
 ## Misc
 - 👯 I’m looking to collaborate with: your mother 
 - 🤔 I’m looking for help with: getting women
-- 💬 Ask me about: EE stuff
+- 💬 Ask me about: EE stuff and how to make my hair less chopped
 - 📫 How to reach me: You cant, youre just simply not on my wavelength
 - 😄 Pronouns: what are those?
 - ⚡ Fun fact: Screw the fun fact heres my top 5 cities:
