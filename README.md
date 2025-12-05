@@ -23,8 +23,7 @@ I don't code software anymore(for my career) so here's the graveyard.
 - 🧑‍💻 I interned at Siemens as a Test Automation Intern during summer 2024
 
 ## What I'm doing now
-- 🌱 I’m focusing on: EE, analog, hardware, RF, quantum computing, iot and circuit design (hint of machine learning)
-- 🔬 Incoming Research Assistant at an theoretical quantum computing lab UIC
+- 🌱 I’m focusing on: EE, analog, hardware, RF, iot and circuit design (hint of ai gpt wrapping)
 
 ## Misc
 - 👯 I’m looking to collaborate with: your mother 
